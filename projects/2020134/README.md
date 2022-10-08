@@ -10,7 +10,7 @@ GitHub profile:
 ## Πίνακας σύνοψης των παραδοτέων
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/P2020134/hci/edit/P2020134/projects/2020134/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE:~:text=%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC*-,%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE,-Commit%20changes)| | |
+| 1 | [Εισαγωγή](https://github.com/P2020134/hci/edit/P2020134/projects/2020134/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE:~:text=%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC*-,%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE,-Commit%20changes)| https://github.com/courses-ionio/help/discussions/899| |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
