@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/BurjanadzeG/hci/blob/%CE%A02020140/projects/2020140/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)| [Συνδεσμος 1](https://github.com/courses-ionio/help/discussions/928) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτεο 3](https://github.com/courses-ionio/help/discussions/1238) | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/BurjanadzeG/hci/edit/%CE%A02020140/projects/2020140/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) | [Παραδοτεο 3](https://github.com/courses-ionio/help/discussions/1238) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -26,3 +26,8 @@
 
 Ο στόχος και οι προσδοκίες του μαθήματος είναι η κατανόηση των πλατφόρμων που προσφέρει. Πιο συγκεκριμένα του Git και των λειτουργειών του (Commit, Push, Pull ,Fork) καθώς και των συστημάτων Linux και της γραμμής εντολών.
 
+<br/>
+
+## Παραδοτέο 3
+
+Ανέβασα τις φωτογραφίες και τα αρχεία md στα submodules στον οργανισμο, απέτυγχα στο deploy της εφαρμογής στο netlify
