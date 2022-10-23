@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/BurjanadzeG/hci/blob/%CE%A02020140/projects/2020140/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)| [Συνδεσμος 1](https://github.com/courses-ionio/help/discussions/928) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτεο 3](https://github.com/courses-ionio/help/discussions/1238) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
